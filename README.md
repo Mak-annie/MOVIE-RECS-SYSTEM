@@ -1,1 +1,50 @@
 # MOVIE-RECS-SYSTEM
+<img src=...... alt="MOVIE!!" width="950" height="400">
+
+
+## INTRODUCTION
+
+
+
+
+
+## PROBLEM STATEMENT
+
+
+
+
+## MAIN OBJECTIVE
+
+
+## SPECIFIC OBJECTIVES
+
+
+
+## NOTEBOOK STRUCTURE
+
+
+
+
+## DATA UNDERSTANDING
+
+
+## METHODOLOGY
+
+
+
+## EXPLORATORY DATA ANALYSIS
+
+
+
+## MODELING
+
+
+
+## CONCLUSIONS
+
+
+
+## RECOMMENDATIONS
+
+
+
