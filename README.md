@@ -1,5 +1,5 @@
 # MOVIE-RECS-SYSTEM
-<img src="https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY29tbWVuZGF0aW9uJTIwc3lzdGVtc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="MOVIE!!" width="950" height="400">
+<img src="https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlY29tbWVuZGF0aW9uJTIwc3lzdGVtc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="MOVIE!!" width="900" height="400">
 
 
 
