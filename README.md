@@ -8,7 +8,6 @@
 In today's digital era, the world of cinema has witnessed a transformative shift. Streaming platforms have unlocked a vast library of movies, granting users unprecedented access to a multitude of entertainment options. However, amidst this abundance, users often find themselves overwhelmed, struggling to identify movies that resonate with their individual tastes. In response to this challenge, I introduce an innovative movie recommendation system, poised to revolutionize the way users discover and enjoy films.
 
 
-
 ## PROBLEM STATEMENT
 The proliferation of online streaming platforms has created an ocean of cinematic choices, leaving users adrift in the quest for their next movie night selection. Navigating this vast sea of options can be daunting and time-consuming, often resulting in decision fatigue and missed opportunities to explore content aligned with one's preferences. My project seeks to address this issue by crafting a sophisticated movie recommendation system capable of leveraging user data and machine learning to deliver personalized movie suggestions. It aims to tackle the challenge of guiding users toward enjoyable movie choices, even for those who are new to the platform or movies with limited ratings.
 
@@ -17,9 +16,9 @@ The proliferation of online streaming platforms has created an ocean of cinemati
 To create a movie recommendation system that suggests the top 5 movies to users based on their ratings of other movies.
 
 ## SPECIFIC OBJECTIVES
-- To evaluate a comprehensive evaluation of user-based and item-based recommendation algorithm.
-- To assess the impact of implicit feedback
-- To address the cold start problem
+1.To evaluate a comprehensive evaluation of user-based and item-based recommendation algorithm.
+2. To assess the overall user experience and engagement with the recommendation platform.
+3. To investigate the recommendation system's performance and scalability to accommodate a growing user base and movie catalog.
 
 
 ## NOTEBOOK STRUCTURE
