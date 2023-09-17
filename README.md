@@ -1,5 +1,5 @@
 # MOVIE-RECS-SYSTEM
-<img src=https://www.behance.net/gallery/113933149/Movie-Recommendation-UI-Design?tracking_source=search_projects_recommended|movie+recommendation alt="MOVIE!!" width="950" height="400">
+<img src="https://www.behance.net/gallery/113933149/Movie-Recommendation-UI-Design?tracking_source=search_projects_recommended|movie+recommendation" alt="MOVIE!!" width="950" height="400">
 
 
 
