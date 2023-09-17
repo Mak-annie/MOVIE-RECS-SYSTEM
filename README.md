@@ -5,7 +5,7 @@
 
 ## INTRODUCTION
 
-
+In today's digital era, the world of cinema has witnessed a transformative shift. Streaming platforms have unlocked a vast library of movies, granting users unprecedented access to a multitude of entertainment options. However, amidst this abundance, users often find themselves overwhelmed, struggling to identify movies that resonate with their individual tastes. In response to this challenge, I introduce an innovative movie recommendation system, poised to revolutionize the way users discover and enjoy films.
 
 
 
@@ -74,9 +74,7 @@ To create a movie recommendation system that suggests the top 5 movies to users 
 
 
 ## MODELING
--The Baseline model will be a K-nearest neighbors(KNN)
-collaborative filtering model to establish a perfomance baseline.I will use cross-validation to assess its predictive accuracy.
--An advanced model i.e. KNNBaseline will be used to account for user and item biases.
+-The project will use user-based and item-based approaches, as well as neural collaborative filtering (NCF).
 
 ## EVALUATION
 Performance of recommendation models will use metrics such as RMSE,MAE.
